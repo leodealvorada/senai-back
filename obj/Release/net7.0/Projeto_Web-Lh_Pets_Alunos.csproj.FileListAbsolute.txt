@@ -1,0 +1,6 @@
+F:\Estudos\0001 Senai Tech\Codificação Back End\Projeto Pet\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.csproj.AssemblyReference.cache
+F:\Estudos\0001 Senai Tech\Codificação Back End\Projeto Pet\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\0001 Senai Tech\Codificação Back End\Projeto Pet\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfoInputs.cache
+F:\Estudos\0001 Senai Tech\Codificação Back End\Projeto Pet\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfo.cs
+F:\Estudos\0001 Senai Tech\Codificação Back End\Projeto Pet\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.csproj.CoreCompileInputs.cache
+F:\Estudos\0001 Senai Tech\Codificação Back End\Projeto Pet\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.MvcApplicationPartsAssemblyInfo.cache
